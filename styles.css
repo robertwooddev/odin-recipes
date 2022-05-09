@@ -1,0 +1,22 @@
+/* styles.css */
+
+body {
+    background-color: rgb(250, 177, 150);
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 100px;
+}
+
+ul {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+li a {
+    text-decoration: none;
+    float: left;
+}
